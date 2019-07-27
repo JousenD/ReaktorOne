@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8c55a21336125ec4391c995eea944a32
+timeCreated: 1526424116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: War Machine Condensed
+  fontNames:
+  - War Machine Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

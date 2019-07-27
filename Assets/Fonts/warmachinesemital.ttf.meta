@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4efa10857c3c1ec4c9c67a4be5d540ec
+timeCreated: 1526424116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: War Machine Semi-Italic
+  fontNames:
+  - War Machine Semi-Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

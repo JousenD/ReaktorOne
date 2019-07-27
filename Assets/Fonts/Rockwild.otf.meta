@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ab5454cf9c9c53a4d89c4c26936f8720
+timeCreated: 1526423547
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockwild
+  fontNames:
+  - Rockwild
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

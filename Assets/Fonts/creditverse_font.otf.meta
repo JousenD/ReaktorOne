@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: de67e956b68609844a05df3dc6fcc8a2
+timeCreated: 1526423381
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Creditverse
+  fontNames:
+  - Creditverse
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94ed023fa761def4a83187ed15b5694f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

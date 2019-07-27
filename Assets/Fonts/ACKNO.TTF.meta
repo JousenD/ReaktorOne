@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b9ba93f468b2bae44a1ba41b1af104b5
+timeCreated: 1526423381
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Acknowledgement
+  fontNames:
+  - Acknowledgement
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

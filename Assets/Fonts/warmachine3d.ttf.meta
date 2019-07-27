@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e6b1df136673c7b4d8c58c8eda32ce9d
+timeCreated: 1526424116
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: War Machine 3D
+  fontNames:
+  - War Machine 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

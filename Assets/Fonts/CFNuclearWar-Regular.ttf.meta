@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 98fd6cad3b23d9c45bb886552f225f9e
+timeCreated: 1525298577
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF Nuclear War
+  fontNames:
+  - CF Nuclear War
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
